@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shalmali Mankikar 👋
 
-<!--
-**ShalmaliSM1106/ShalmaliSM1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Embedded Systems and VLSI enthusiast based in Bengaluru, India.
 
-Here are some ideas to get you started:
+## 🌐 My Personal Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On **2 October 2026** I started building my personal website. It's nearly done and just needs a few final adjustments, so I'll be adding the link here very soon. Stay tuned! 🚀
+
+## 🚀 What's next
+- Finishing the last tweaks on my website
+- Adding the live link right here once it's ready
+- Being more active on GitHub with regular updates
+
+## 📫 Connect with me
+- Email: shalmalimankikar1106@gmail.com
+- LinkedIn: [your link]
+
+Thanks for stopping by, and check back soon! 🙌
