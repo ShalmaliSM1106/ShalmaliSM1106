@@ -1,13 +1,32 @@
-# Hi, I'm Shalmali Mankikar
+## Hi, I'm Shalmali Mankikar
 
-I'm an Embedded Systems and VLSI enthusiast based in Bengaluru, India.
+**Embedded Development Engineer** at Huezone Solutions, Bengaluru · ECE graduate (CGPA 9.44/10)
+I work across **RTL design** and **embedded firmware**: from describing hardware in Verilog to making it run on real boards.
+I enjoy finding the timing constraints, edge cases and trade-offs that only show up once you start building and debugging.
 
-As the saying goes "Learning never exhausts the mind", I'm still learning and exploring a lot of new things, and I use GitHub to build, experiment, and keep track of what I pick up along the way. I enjoy understanding how things work under the hood, from how a design is described in code to how it behaves on real hardware. Things often look simple at first glance, but the deeper I dive, the more I realise how much thought goes into even the smallest part. A few lines of code can hide timing constraints, edge cases, and design trade-offs that only show up when you start building and debugging. That is what keeps me curious, and exploring.
+### Currently working on
+- I2C master in Verilog, completing my UART / SPI / I2C set
+- Register-level UART, SPI and I2C drivers in Embedded C on ARM Cortex-M
+- Computer architecture: extending my pipelined CPU with forwarding and branch prediction
 
-Right now, I'm putting together my personal website, where I'll share my work and what I'm learning. The link will be added here as soon as it's live.
+### Skills
+**RTL & Verification:** Verilog · SystemVerilog · self-checking testbenches · FSM & pipelined design · FPGA
+**Embedded:** Embedded C · C/C++ · ARM Cortex-M · ATmega · ESP32 · UART · SPI · I2C · LoRa · RTOS
+**Tools:** ModelSim · Xilinx Vivado · Cadence Virtuoso · KiCad · Git · Linux · Python
 
-## Connect with me
-- Email: shalmalimankikar1106@gmail.com
-- LinkedIn: www.linkedin.com/in/shalmali-mankikar
+### Featured projects
+| Project | What it is | Tools |
+|---|---|---|
+| [RTL Design Portfolio](https://github.com/ShalmaliSM1106/vlsi-rtl-portfolio) | 7 Verilog blocks incl. UART, SPI, FIFO, pipelined FIR and a 16-bit 4-stage pipelined CPU | Verilog, ModelSim, Vivado |
+<!-- | [AES–ECC Hybrid Cryptosystem](https://github.com/ShalmaliSM1106/aes-ecc-hybrid-fpga) | AES-128 core + ECC key exchange on FPGA (published) | Verilog, Vivado | -->
+<!-- | [I2C Master](https://github.com/ShalmaliSM1106/i2c-master-verilog) | FSM-based I2C master with self-checking testbench | Verilog, ModelSim | -->
+<!-- | [Bare-Metal Drivers](https://github.com/ShalmaliSM1106/stm32-baremetal-drivers) | Register-level UART/SPI/I2C drivers on ARM Cortex-M | Embedded C | -->
+<!-- | [LoRa Soldier Tracking](https://github.com/ShalmaliSM1106/lora-soldier-tracking) | Two-node LoRa tracking link (published) | Arduino, LoRa | -->
+<!-- | [VANET EV](https://github.com/ShalmaliSM1106/vanet-ev-v2x) | ESP32 V2V/V2I prototype with SUMO + Mininet-WiFi | ESP32, Python | -->
 
-Thanks for stopping by, and check back soon!
+### Publications
+- *Design and Implementation of Cryptographic Models for VLSI Applications*
+- *Secure LoRa Wireless Communication for Soldier Tracking with the Help of Interfacing Two Arduino Uno Devices in Military Operations*
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/shalmali-mankikar) · shalmalimankikar1106@gmail.com
